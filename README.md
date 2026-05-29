@@ -4,9 +4,7 @@
 
 ### Full-Stack Developer · AI Product Builder · Colombia
 
-<p>I build complete products end-to-end — from AI agents and logistics platforms<br>to e-commerce stores and healthcare tools. From idea to production.</p>p>
-
-<br/>
+I build complete products end-to-end — from AI agents and logistics platforms to e-commerce stores and healthcare tools. From idea to production.
 
 [![Email](https://img.shields.io/badge/estkai00@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:estkai00@gmail.com)
 [![GitHub](https://img.shields.io/badge/Estka--ai-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Estka-ai)
@@ -63,18 +61,17 @@
 
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Estka-ai&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Estka-ai&layout=compact&theme=github_dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Estka-ai&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Estka-ai&layout=compact&theme=github_dark&hide_border=true&count_private=true)
 
-  </div>
+</div>
 
-  ---
+---
 
-  <div align="center">
+<div align="center">
 
-    **Open to freelance projects and collaborations**
+**Open to freelance projects and collaborations**
 
-    [![Email](https://img.shields.io/badge/Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estkai00@gmail.com)
+[![Get in touch](https://img.shields.io/badge/Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estkai00@gmail.com)
 
-    </div>
-</p>
+</div>
