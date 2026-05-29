@@ -38,4 +38,4 @@ This profile reflects my approach to software: **build products that work in pro
 
       ---
 
-      [![Email](https://img.shields.io/badge/estkai00%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estkai00@gmail.com)
+      [![Email](https://img.shields.io/badge/estkadev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estkadev@gmail.com)
