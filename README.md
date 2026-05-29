@@ -1,6 +1,4 @@
-<p align="center">
-<img src="./banner.svg" alt="Juan Esteban Patiño — Full-Stack Developer & AI Product Builder" width="100%" />
-</p>p>
+![Juan Esteban Patiño — Full-Stack Developer & AI Product Builder](./banner.svg)
 
 ## **Juan Esteban Patiño**
 **Full-Stack Developer | AI Product Builder | Colombia**
